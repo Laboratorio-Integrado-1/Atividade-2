@@ -42,7 +42,7 @@ Foi elaborada uma tabela detalhada mapeando estados atuais, entradas sensoriais,
 
 A tabela completa esta disponível a partir deste link : https://docs.google.com/spreadsheets/d/1M3G7sAugRDaKeGSTTQ3ImHe-3KtkDvaiJmCjNTxymsU/edit?usp=sharing
 
-Ela tambem esta disponível do repositório: // link do arquivo da tabela
+Ela tambem esta disponível no repositório: https://github.com/Laboratorio-Integrado-1/Atividade-2/blob/main/Atividade%202%20(Lab%201)%20-%20Diagrama%20de%20Estados.xlsx
 
 ### Diagrama de Estados: 
 A partir da tabela, foi criado um diagrama de estados utilizando a abordagem de Mealy, onde as saídas dependem do estado atual e das entradas.
