@@ -51,9 +51,10 @@ A partir da tabela, foi criado um diagrama de estados utilizando a abordagem de 
 ![Figura 2. Diagrama de estados](https://github.com/Laboratorio-Integrado-1/Atividade-2/blob/main/Diagrama%20LAB1%20-%20Atv%202.png)
 
 ### Simulação e Testes
-Foi realizada uma simulação com 22 pulsos de clock para demonstrar o funcionamento do robô sob condições controladas, permitindo a verificação da eficácia da FSM projetada.
+Foi realizada uma simulação com 22 pulsos de clock para demonstrar o funcionamento do robô sob condições controladas, permitindo a verificação da eficácia da FSM projetada. O mapa utilizado para realização dos testes e exercícios se encontra abaixo em conjunto com a figura da Tabela de Simulações.
 
-![Figura 3. Tabela de simulações](https://github.com/Laboratorio-Integrado-1/Atividade-2/blob/main/Tabela%20de%20simulacao.png)
+![Figura 3. Mapa Exemplo](https://github.com/Laboratorio-Integrado-1/Atividade-2/blob/main/Mapa%20Exemplo%20-%20Atividade%202.jpg)
+![Figura 4. Tabela de simulações](https://github.com/Laboratorio-Integrado-1/Atividade-2/blob/main/Tabela%20de%20simulacao.png)
 
 ## Conclusões
 O design da FSM provou ser eficaz na navegação e na limpeza de uma tubulação complexa. O robô conseguiu gerenciar eficientemente as tarefas de limpeza, priorizando movimentos estratégicos e adaptações conforme necessário, garantindo uma operação autônoma otimizada.
