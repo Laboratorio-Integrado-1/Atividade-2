@@ -34,7 +34,7 @@ A construção da máquina de estados finitos (FSM) seguiu uma abordagem sistem�
 - Stand-By
 - Rotacionando
 - Removendo Entulho
-- Transicionando
+- Intermediário
 
 ### Tabela de Transições de Estados:
 Foi elaborada uma tabela detalhada mapeando estados atuais, entradas sensoriais, estados futuros e saídas para definir a lógica de transição. Podemos ver um recorte da mesma na figura 1.
