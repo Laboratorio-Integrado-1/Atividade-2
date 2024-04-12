@@ -20,6 +20,7 @@ Sensores do Robô:
 - Left (L): Identifica aberturas livres à esquerda.
 - Under (U): Sensor de chão que confirma se o robô está sobre um ponto de acesso (célula preta).
 - Barrier (B): Detecta entulho removível à frente do robô.
+
 Movimentos do Robô:
 - Avançar (F): Move-se para frente se a célula à frente estiver livre.
 - Rotacionar (T): Gira 90º para a esquerda dentro da mesma célula.
